@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T19:15:46.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9WrwfhEz8a97QvjdEJ2M" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-10T19:17:09.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="35wQHGAm4P5AIjyUSXXO" version="20.3.0" type="github" pages="4">
   <diagram id="nGBkDt40HIZrWiJ5scxl" name="Page-1">
     <mxGraphModel dx="1865" dy="4124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
         <mxCell id="xeY-UqACXv1e7Sdeassj-0" />
         <mxCell id="xeY-UqACXv1e7Sdeassj-1" parent="xeY-UqACXv1e7Sdeassj-0" />
         <mxCell id="l13dOLEMMdPJexIl9QLR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="xeY-UqACXv1e7Sdeassj-1">
-          <mxGeometry x="84" y="40" width="676" height="1120" as="geometry" />
+          <mxGeometry x="76" y="25" width="676" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="l13dOLEMMdPJexIl9QLR-2" value="12233345" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="xeY-UqACXv1e7Sdeassj-1">
           <mxGeometry x="100" y="60" width="120" height="30" as="geometry" />
@@ -413,6 +413,19 @@
         </mxCell>
         <mxCell id="l13dOLEMMdPJexIl9QLR-51" value="Footer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#999999;" vertex="1" parent="xeY-UqACXv1e7Sdeassj-1">
           <mxGeometry x="80" y="1050" width="680" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="l13dOLEMMdPJexIl9QLR-52" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;fillColor=#999999;" vertex="1" parent="xeY-UqACXv1e7Sdeassj-1">
+          <mxGeometry x="376" y="267" width="44" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="l13dOLEMMdPJexIl9QLR-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/58/coin-3-128.png;strokeColor=#CCCCCC;fillColor=#999999;" vertex="1" parent="xeY-UqACXv1e7Sdeassj-1">
+          <mxGeometry x="137" y="267" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="l13dOLEMMdPJexIl9QLR-54" value="{Duration constraint 1}" style="endArrow=open;html=1;endSize=12;startArrow=open;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;endFill=0;rounded=0;" edge="1" parent="xeY-UqACXv1e7Sdeassj-1">
+          <mxGeometry x="-0.25" y="-30" relative="1" as="geometry">
+            <mxPoint x="228" y="266" as="sourcePoint" />
+            <mxPoint x="324" y="266" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
